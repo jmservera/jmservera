@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi folks 👋
 
+- 🔭 I’m currently working on App Innovation and Cloud Architecture
+- 🌱 I'm learning about Dynamic Programming
+- 💬 Ask me about home automation
+- 📫 Send me a DM in [Twitter](https://twitter.com/jmservera)
 <!--
 **jmservera/jmservera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
