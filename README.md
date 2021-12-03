@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on App Innovation and Cloud Architecture
 - 🌱 I'm learning about Dynamic Programming
 - 💬 Ask me about home automation
-- 📫 Send me a DM in [Twitter](https://twitter.com/jmservera)
+- 📫 Send me a DM on [Twitter](https://twitter.com/jmservera)
 <!--
 **jmservera/jmservera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
