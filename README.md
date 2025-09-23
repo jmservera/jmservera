@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmservera&layout=compact&langs_count=8)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmservera&show_icons=true&count_private=true&line_height=40)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmservera&layout=compact&langs_count=10)
+
