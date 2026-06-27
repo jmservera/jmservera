@@ -1,7 +1,7 @@
 ### Hi folks 👋
 
 - 🔭 I’m currently working on App Innovation and Cloud Architecture
-- 🌱 I'm learning German & Dynamic Programming
+- 🌱 I'm learning German & Robotics
 - 💬 Ask me about home automation and IoT
 - 📫 Say hello on [Linkedin](www.linkedin.com/in/jmservera)
 <!--
